@@ -3,7 +3,7 @@
 PASSCHECKER is a simple **Password Strength Assessment Tool** built in Python.<br>
 It features:
 - Random rotating ASCII banners with colorful text.
-- Interactive password input (masked with asterisks ⭐).
+- Interactive password input (masked with asterisks).
 - Strength analysis: **WEAK, MEDIUM, STRONG**.
 - Actionable feedback on how to improve your password security.
 - Repeat checks option (Y/N loop).
@@ -27,7 +27,7 @@ It features:
 ## Example Output
 WELCOME TO PASSCHECKER - A Simple Password Strength Tool
 
-Enter the password to check: ********<br>
+Enter the password to check: <br>
 Password Strength Report
 ------------------------
 Strength : MEDIUM<br>
