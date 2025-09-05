@@ -25,9 +25,10 @@ It features:
 ✅ Suggestions for stronger password creation.
 
 ## Example Output
+
 WELCOME TO PASSCHECKER - A Simple Password Strength Tool
 
-Enter the password to check: <br>
+Enter the password to check:******** <br>
 Password Strength Report
 ------------------------
 Strength : MEDIUM<br>
