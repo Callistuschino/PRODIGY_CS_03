@@ -1,6 +1,6 @@
 # 🔐 PASSCHECKER
 
-PASSCHECKER is a simple **Password Strength Assessment Tool** built in Python.
+PASSCHECKER is a simple **Password Strength Assessment Tool** built in Python.<br>
 It features:
 - Random rotating ASCII banners with colorful text.
 - Interactive password input (masked with asterisks ⭐).
@@ -47,9 +47,9 @@ Suggestions:
 
 ## Requirements
 
-Python 3.x
+ * Python 3.x
 
-colorama
+ * colorama
 
 ## Install dependencies:
 
