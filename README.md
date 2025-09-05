@@ -30,7 +30,7 @@ WELCOME TO PASSCHECKER - A Simple Password Strength Tool
 
 Enter the password to check:******** <br>
 Password Strength Report
-------------------------
+
 Strength : MEDIUM<br>
 Score    : 3/5 (60%)
 
